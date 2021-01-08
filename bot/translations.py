@@ -1,11 +1,7 @@
 
 class Messages:
 
-    START_MSG = "Hi there {}.\n\nI'm Turbo Youtube Uploader Bot. You can use me to upload any telegram video to youtube once you authorise me. 
-    
-    /authorise - Copied Code
-    
-    You can know more from /help.\n\nThank you."
+    START_MSG = "Hi there {}.\n\nI'm Turbo Youtube Uploader Bot. You can use me to upload any telegram video to youtube once you authorise me.\n\n/authorise - Copied Code\n\nYou can know more from /help.\n\nThank you."
 
     HELP_MSG = [
         ".",
